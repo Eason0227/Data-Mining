@@ -11,5 +11,5 @@
 # BPNN-forecast result
 ### Using UCI Electrical Grid as example  
 
-![BPN forecast loss](https://user-images.githubusercontent.com/102510341/195967050-18909031-0ae5-4bbc-bf42-4a96ef89bbf7.png)
 ![BPN forecast result](https://user-images.githubusercontent.com/102510341/195967051-b5cebd9c-ad19-43a2-b846-7843091b5e17.png)
+![BPN forecast loss](https://user-images.githubusercontent.com/102510341/195967050-18909031-0ae5-4bbc-bf42-4a96ef89bbf7.png)

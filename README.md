@@ -4,9 +4,9 @@
 # BPNN-Classification result
 ### Using UCI iris data as example  
 
-![BPN classifcation resulf](https://user-images.githubusercontent.com/102510341/195967030-b836e7ac-8987-49e1-a592-ac29c40ede1b.png)
-![BPN classifcation loss](https://user-images.githubusercontent.com/102510341/195967015-3a14fb89-bb5e-4517-95b4-a4d50bbd713b.png)
-![BPN classifcation accuracy](https://user-images.githubusercontent.com/102510341/195967023-ba134799-954c-4d7e-b1cb-bed31e40e7e7.png)
+![BPN classifcation resulf](https://user-images.githubusercontent.com/102510341/195999839-9dfdf459-95c9-4ab9-a47a-75368ac66753.png)
+![BPN classifcation loss](https://user-images.githubusercontent.com/102510341/195999838-fd8bb7a6-0322-4272-af49-868790455748.png)
+![BPN classifcation accuracy](https://user-images.githubusercontent.com/102510341/195999837-40efac1a-3bf8-4694-8eb5-249d4c0bbc9d.png)
 
 # BPNN-forecast result
 ### Using UCI Electrical Grid as example  

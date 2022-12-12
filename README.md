@@ -6,3 +6,6 @@
 
 ## HW2 - Clustering Algorithm : Self-Organizing Map (SOM)
 ### Clustering Using UCI iris data as example,and compare the results with MiniSOM and K-means.
+
+## Final Project - Imbalanced data classification of semiconductor process data.
+### Classification Using UCI SOCOM data ,and compare the results with other algorithm.

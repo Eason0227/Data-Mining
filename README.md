@@ -9,7 +9,6 @@ Clustering Using UCI iris data as example,and compare the results with MiniSOM a
 
 Final Project - Imbalanced data classification of semiconductor process data.  
 Classification Using UCI SOCOM data ,and compare the results with other algorithm.  
-半導體製程之產出預測  
 半導體製造過程通常通過從感測器或過程測量點收集的信號/變數進行監控，根據這些變數預測產品的成功或失敗，具體作法如以下幾個階段：  
 1.資料視覺化  
 2.資料前處理：遺失值插補、離群值處理、資料正規化  
